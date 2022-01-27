@@ -1,0 +1,2 @@
+mkuser -name SSHtrial -usergrp  SecurityAdmin -password password
+mkuser -name SSHtrial2 -usergrp  SecurityAdmin -password password
