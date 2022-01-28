@@ -3,7 +3,7 @@ first of all, you can understand how little I know about these concepts. I am op
 this is something I created for making quicker bulk tasks about device management. 
 I have used paramiko to connect to devices via ssh. (https://www.paramiko.org/)
 
-I want to thank the guy who explained paramiko very well in his channel. you can visit from the link below:
+I want to thank the guy who explained paramiko very well in his channel. you can visit from the link below: 
 https://www.youtube.com/watch?v=A075aWJMAeM&list=PLOocymQm7YWYc73phqzbZ1S3ANrVVpUFN
 
 py script to manage multiple devices with same credentials via ssh
